@@ -1,4 +1,2 @@
 # seth_website
-My academic website
-A line I wrote on my local computer
-This is my academic website
+My academic website. Made with blogdown and the academic template in Hugo.
