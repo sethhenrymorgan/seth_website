@@ -1,0 +1,15 @@
+
+/*************************************************
+ *  Seth's figures for Hugo Academic
+ *  Set `custom_css = ["figure.css"] in `config.toml`.
+ *  Then save this file as `/static/css/green.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+
+figcaption {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 75%;
+  font-style: italic;
+}
