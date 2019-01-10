@@ -1,0 +1,8 @@
+# Redirect default Netlify subdomain to primary domain
+http://sethhenrymorgan.netlify.com/* http://sethhenrymorgan.com/:splat 301!
+
+#redirect haiku app
+haikur.sethhenrymorgan.com http://vcm-7518.vm.duke.edu:3838/haiku_r/
+
+#redirect haiku cloud
+haikucloud.sethhenrymorgan.com http://vcm-7518.vm.duke.edu:3838/haiku_cloud
