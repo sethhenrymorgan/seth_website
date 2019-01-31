@@ -1,0 +1,23 @@
+---
+title: 'Working Paper: Reducing the Environmental Risks of the BRI'
+author: Seth Morgan
+date: '2019-01-30'
+slug: working-paper-reducing-the-environmental-risks-of-the-bri
+categories:
+  - Research
+tags:
+  - China
+  - development
+  - Infrastructure
+  - The Belt and Road Initiative
+image:
+  caption: ''
+  focal_point: ''
+---
+```{r echo=FALSE}
+blogdown::shortcode('figure', src="/img/bri_map.jpg", title="The Belt & Road Initiative", attr = "HKTDC Research" , attrlink = "http://china-trade-research.hktdc.com/business-news/article/The-Belt-and-Road-Initiative/The-Belt-and-Road-Initiative/obor/en/1/1X000000/1X0A36B7.htm")
+```
+
+This week the World Bank published the policy research working paper I had the privilege of contributing a bit to: ["Reducing Environmental Risks from Belt and Road Initiative Investments in Transportation Infrastructure"](http://documents.worldbank.org/curated/en/700631548446492003/Reducing-Environmental-Risks-from-Belt-and-Road-Initiative-Investments-in-Transportation-Infrastructure) by Elizabeth Losos, Alexander Pfaff, Lydia Olander, Sara Mason and myself. The working paper outlines a number of risks associated with the ambitious plan to connect Asia via new transport corridors, as well as outlining methods of mitigation. Crucially, it emphasizes that early strategic planning could potentially avoid some of the worst anticipated impacts by routing transport corridors away from biodiversity hot-spots and forest frontiers. 
+
+For a look at the potential deforestation impacts examined in the working paper, take a look at this [Brookings blog post](https://www.brookings.edu/blog/future-development/2019/01/28/the-deforestation-risks-of-chinas-belt-and-road-initiative/). And for a good short summary, read this [World Bank blog post](https://blogs.worldbank.org/trade/green-belt-and-road-feasible-how-mitigate-environmental-risk-bri-infrastructure-project). 
