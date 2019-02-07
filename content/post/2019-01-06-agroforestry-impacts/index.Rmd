@@ -9,11 +9,10 @@ tags:
   - agroforestry
   - sustainability
   - agriculture
+image:
+  caption: 'Vi Agroforestry Tree Nursery'
+  focal_point: 'Smart'
 ---
-```{r echo=FALSE}
-blogdown::shortcode('figure', src="/img/vi_nursery.jpg", title="Vi Agroforestry Tree Nursery")
-```
-
 Agroforestry---planting trees on farms---has a lot of benefits for the world at large: trees prevent erosion, store carbon, and provide refuge habitats within the agricultural landscape. And agronomists have reported that trees can support soil health and increase soil organic matter, improving the long-term sustainability of farming systems. But is agroforestry good for the farmer's bottom line? That's what we set out to find in the ICRAF study "Assessing the Downstream Socioeconomic Impacts of Agroforestry in Kenya."
 
 [ICRAF (The World Agroforestry Centre)](http://www.worldagroforestry.org/) has had an advisory relationship with Vi Agroforestry in Kitale, Kenya for the better part of 3 decades. So when the Standing Panel on Impact Assessment, the CGIAR system's assessment group, commissioned a study on ICRAF's research impact, Vi's programming was chosen as the study subject. I got to be a part of this study thanks to my advisor at the University of Illinois, Kathy Baylis, and ICRAF's head of impact evaluation, Karl Hughes. Many thanks to both of them and the rest of the ICRAF research team for this great opportunity!

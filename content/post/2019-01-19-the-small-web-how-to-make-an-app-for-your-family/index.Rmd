@@ -9,9 +9,6 @@ tags:
   - Shiny
   - R
   - LaTeX
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 ```{r echo=FALSE}

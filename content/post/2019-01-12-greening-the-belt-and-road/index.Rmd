@@ -10,11 +10,11 @@ tags:
   - The Belt and Road Initiative
   - Infrastructure
   - development
+image:
+  caption: 'Duke Kunshan University'
+  focal_point: 'Smart'
+    
 ---
-
-```{r echo=FALSE}
-blogdown::shortcode('figure', src="/img/dku.jpg", title="Duke Kunshan University")
-```
 In the fall I had the opportunity to visit [Duke Kunshan University](https://dukekunshan.edu.cn/en) in Kunshan, China for a conference on China's Belt and Road Initiative (BRI)---a major foreign investment plan by the Chinese government intended to connect Asia and increase trade and economic growth in the region. The conference---officially titled the ["Duke-DKU International Symposium on Environmentally and Socially Responsible Outbound Foreign Direct Investment"](https://dukekunshan.edu.cn/en/environment/events/duke-dku-international-symposium-environmentally-and-socially-responsible)---brought together representatives from the Chinese national planning commission as well as academics from China, Southeast and Central Asia, Europe and the United States. It was an amazing opportunity for me to learn a lot about China's foreign direct investment as well as give a brief presentation about the potential land-use implications of the Belt and Road's infrastructure.
 
 ```{r echo=FALSE}

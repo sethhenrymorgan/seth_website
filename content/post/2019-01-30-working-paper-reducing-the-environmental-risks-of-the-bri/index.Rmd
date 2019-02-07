@@ -11,9 +11,9 @@ tags:
   - Infrastructure
   - The Belt and Road Initiative
 image:
-  caption: ''
-  focal_point: ''
+  preview_only: true
 ---
+
 ```{r echo=FALSE}
 blogdown::shortcode('figure', src="/img/bri_map.jpg", title="The Belt & Road Initiative", attr = "HKTDC Research" , attrlink = "http://china-trade-research.hktdc.com/business-news/article/The-Belt-and-Road-Initiative/The-Belt-and-Road-Initiative/obor/en/1/1X000000/1X0A36B7.htm")
 ```
