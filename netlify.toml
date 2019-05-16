@@ -1,0 +1,15 @@
+[[redirects]]
+from = "http://sethhenrymorgan.netlify.com/*"
+to = "http://sethhenrymorgan.com/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "http://haikur.sethhenrymorgan.com"
+to = "http://vcm-7518.vm.duke.edu:3838/haiku_r/"
+status = 301
+force = false
+[[redirects]]
+from = "http://haikucloud.sethhenrymorgan.com"
+to = "http://vcm-7518.vm.duke.edu:3838/haiku_cloud"
+status = 301
+force = false
