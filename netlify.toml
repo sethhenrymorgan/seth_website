@@ -17,10 +17,16 @@ force = true
 from = "http://sethhenrymorgan.com/haiku_r"
 to = "http://vcm-7518.vm.duke.edu:3838/haiku_r/"
 status = 301
-force = false
+force = true
+
+[[redirects]]
+from = "http://sethhenrymorgan.com/haikur"
+to = "http://vcm-7518.vm.duke.edu:3838/haiku_r/"
+status = 301
+force = true
 
 [[redirects]]
 from = "http://sethhenrymorgan.com/haikucloud"
 to = "http://vcm-7518.vm.duke.edu:3838/haiku_cloud"
 status = 301
-force = false
+force = true
