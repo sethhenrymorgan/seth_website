@@ -1,13 +1,24 @@
+[build] 
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.53" # if older, use format: 0.53 (no trailing zero)
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
 [[redirects]]
 from = "http://sethhenrymorgan.netlify.com/*"
 to = "http://sethhenrymorgan.com/:splat"
 status = 301
 force = true
+
 [[redirects]]
 from = "http://haikur.sethhenrymorgan.com"
 to = "http://vcm-7518.vm.duke.edu:3838/haiku_r/"
 status = 301
 force = false
+
 [[redirects]]
 from = "http://haikucloud.sethhenrymorgan.com"
 to = "http://vcm-7518.vm.duke.edu:3838/haiku_cloud"
