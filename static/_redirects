@@ -2,7 +2,10 @@
 http://sethhenrymorgan.netlify.com/* http://sethhenrymorgan.com/:splat 301!
 
 #redirect haiku app
-http://haikur.sethhenrymorgan.com http://vcm-7518.vm.duke.edu:3838/haiku_r/
+http://sethhenrymorgan.com/haikur http://vcm-7518.vm.duke.edu:3838/haiku_r/ 301!
+
+#redirect haiku app
+http://sethhenrymorgan.com/haiku_r http://vcm-7518.vm.duke.edu:3838/haiku_r/ 301!
 
 #redirect haiku cloud
-http://haikucloud.sethhenrymorgan.com http://vcm-7518.vm.duke.edu:3838/haiku_cloud
+http://haikucloud.sethhenrymorgan.com http://vcm-7518.vm.duke.edu:3838/haiku_cloud 301!
