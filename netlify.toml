@@ -8,25 +8,25 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-from = "http://sethhenrymorgan.netlify.com/*"
+from = "https://sethhenrymorgan.netlify.com/*"
 to = "http://sethhenrymorgan.com/:splat"
 status = 301
 force = true
 
 [[redirects]]
-from = "http://sethhenrymorgan.com/haiku_r"
+from = "https://sethhenrymorgan.com/haiku_r"
 to = "http://vcm-7518.vm.duke.edu:3838/haiku_r/"
 status = 301
 force = true
 
 [[redirects]]
-from = "http://sethhenrymorgan.com/haikur"
+from = "https://sethhenrymorgan.com/haikur"
 to = "http://vcm-7518.vm.duke.edu:3838/haiku_r/"
 status = 301
 force = true
 
 [[redirects]]
-from = "http://sethhenrymorgan.com/haikucloud"
+from = "https://sethhenrymorgan.com/haikucloud"
 to = "http://vcm-7518.vm.duke.edu:3838/haiku_cloud"
 status = 301
 force = true
