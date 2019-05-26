@@ -14,6 +14,12 @@ status = 301
 force = true
 
 [[redirects]]
+from = "https://haikur.sethhenrymorgan.com/"
+to = "http://vcm-7518.vm.duke.edu:3838/haiku_r/"
+status = 301
+force = true
+
+[[redirects]]
 from = "https://sethhenrymorgan.com/haiku_r"
 to = "http://vcm-7518.vm.duke.edu:3838/haiku_r/"
 status = 301
