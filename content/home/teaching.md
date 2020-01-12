@@ -15,7 +15,9 @@ weight = 40
 
 +++
 
-I was lead teaching assistant for the following courses at Duke University:
+I have served as teaching assistant for the following courses at Duke University:
 
-- PubPol 810: Microeconomics & Policy
+- Public Policy 810: Microeconomics & Policy
+- Public Policy 303: Microeconomic Tools for Policy Analysis
+- Public Policy 304: Economics of the Public Sector
 
