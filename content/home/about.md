@@ -23,6 +23,6 @@ weight = 5
 
 # Biography
 
-I am a PhD student in the University Program in Environmental Policy - Economics Track at Duke University's Nicholas School of the Environment and Sanford School of Public Policy. I am advised at Duke by Alex Pfaff and Marc Jeuland. My research interests include the economics of deforestation, sustainable agriculture, water resources, and rural development. 
+I am a PhD candidate in the University Program in Environmental Policy - Economics Track at Duke University's Nicholas School of the Environment and Sanford School of Public Policy. I am advised at Duke by Alex Pfaff and Marc Jeuland. My research interests include the economics of deforestation, sustainable agriculture, water resources, and rural development. 
 
  
