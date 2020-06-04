@@ -256,27 +256,27 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:seth.morgan@duke.edu"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/sethhenrymorgan"
 
- #[[params.social]]
- #   icon = "google-scholar"
- #  icon_pack = "ai"
- #   link = ""
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com/citations?hl=en&user=m3suq-QAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/sethhenrymorgan"
     
-  [[params.social]]
-  icon = "rss"
-  icon_pack = "fa"
-  link = "https://sethhenrymorgan.com/post/index.xml"
+#  [[params.social]]
+#  icon = "rss"
+#  icon_pack = "fa"
+#  link = "https://sethhenrymorgan.com/post/index.xml"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -313,10 +313,10 @@ enableGitInfo = false
   url = "#posts"
   weight = 4
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 5
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
