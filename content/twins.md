@@ -17,7 +17,6 @@ Cards and small items can come to our address at 3701 Erwin Rd. Durham, NC 27705
 
 Getting two of everything adds up! Here are some things we're looking to beg, borrow, thrift, or otherwise get used. Some of these items are on the registry as well, but it seems worth it to try to save a bit. Let us know if you've got any of these items to sell or hand down!
 
-* Double car seat stroller frame
 * Baby carriers (e.g. ErgoBaby)
 * Bassinet/co-sleeper (the Arm's Reach models look big enough for two)
 * Changing table or dresser
