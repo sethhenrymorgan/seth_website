@@ -1,7 +1,8 @@
 ---
-title: "Twins on the way!"
+title: Twins on the way!
 layout: staticpage
 date: '2021-05-20'
+published: true
 ---
 Hi friends! As you know by now we've got two (!) little ones incoming in September. If you're here, you might be looking for registry information, so see below for registry, shipping details and second-hand/hand-me-down requests. But mostly we hope that you'll join us in celebrating these new lives and that you'll send us your prayers, wishes, and judicious advice as we prepare for a twin tornado of baby-dom to come into our world.
 
@@ -17,9 +18,6 @@ Cards and small items can come to our address at 3701 Erwin Rd. Durham, NC 27705
 
 Getting two of everything adds up! Here are some things we're looking to beg, borrow, thrift, or otherwise get used. Some of these items are on the registry as well, but it seems worth it to try to save a bit. Let us know if you've got any of these items to sell or hand down!
 
-* Baby carriers (e.g. ErgoBaby)
-* Bassinet/co-sleeper (the Arm's Reach models look big enough for two)
-* Changing table or dresser
 * Oversize chair
 * Bouncy chairs
 * Swings or jumpers
