@@ -17,7 +17,7 @@ weight = 40
 
 I designed and taught the following course at Duke:
 
--ENV 390: Environmental Economics & International Development Policy 
+-[ENV 390: Environmental Economics & International Development Policy](https://sakai.duke.edu/portal/site/da075dc6-3704-47fa-b8d9-924b00d84ba7) 
 
 I served as teaching assistant for the following courses:
 
@@ -29,7 +29,7 @@ My Teaching Statement:
 
 Education in economics and environmental policy should be challenging, engaging, and inclusive. As a Teaching Assistant, guest lecturer, and instructor at Duke University I’ve tried to create an environment where each of these goals is fulfilled.
 
-In the course I designed and taught, Environmental Economics & International Development Policy, I used a flipped classroom model, filming short video introductions to new topics which took the students out into the world, filming on location in forests, near streams and on a farm, to illustrate the stakes of the policies we were discussing. I also designed a climate negotiations game, which has now been played at Duke three times, challenging students to balance their countries’ individual interests with the broader climate good.
+In the course I designed and taught, Environmental Economics & International Development Policy, I used a flipped classroom model, filming short [video introductions](https://warpwire.duke.edu/w/JwEFAA/) to new topics which took the students out into the world, filming on location in [forests](https://warpwire.duke.edu/w/2ysFAA/), [streams](https://warpwire.duke.edu/w/cXQFAA/) and [on a farm](https://warpwire.duke.edu/w/Xz8FAA/), to illustrate the stakes of the policies we were discussing. I also designed a climate negotiations game, which has now been played at Duke three times, challenging students to balance their countries’ individual interests with the broader climate good.
 
 I firmly believe it is important for diversity and inclusion to form an integral part of instruction. To foster this I introduce economics concepts in the context of pressing policy problems of interest to a wide range of students, such as income inequality, climate change, and discrimination. It’s important for my classroom practice to include participation and a dialogical engagement with these issues so that students can approach them using and building on their unique backgrounds while also being prepared to interact with a diversity of opinions and update their beliefs accordingly. For example, in class discussion about air pollution I make sure to make space for consideration of environmental justice, allowing students to wrestle for themselves with the ways that economic privilege and racial identity interact with pollution location and harm.
 
