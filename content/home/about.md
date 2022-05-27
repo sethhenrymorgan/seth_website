@@ -10,6 +10,11 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
+  course = "PhD in Environmental Policy - Economics Concentration"
+  institution = "The Nicholas School of the Environment & Sanford School of Public Policy - Duke University"
+  year = 2022
+
+[[education.courses]]
   course = "MS in Applied Economics"
   institution = "The University of Illinois at Urbana Champaign"
   year = 2017
@@ -23,6 +28,6 @@ weight = 5
 
 # Biography
 
-I am a PhD Candidate in the University Program in Environmental Policy - Economics Track at Duke University's Nicholas School of the Environment and Sanford School of Public Policy. I am advised at Duke by Alex Pfaff and Marc Jeuland. My research interests include the economics of deforestation, sustainable agriculture, water resources, and rural development. 
+I am a Conservation Impact Economist at The Nature Conservancy where I a work on the Monitoring, Evaluation and Learning (MEL) Team. My research interests include impact evaluation design for conservation, the economics of deforestation, sustainable agriculture, water resources, and rural development.
 
  

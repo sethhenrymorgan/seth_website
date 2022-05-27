@@ -53,18 +53,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Seth Morgan"
-  role = "PhD Candidate in Environmental Economics"
+  role = "Conservation Impact Economist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Duke University", url = "" } ]
+  organizations = [ { name = "The Nature Conservancy", url = "https://www.nature.org/en-us/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "seth_headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "seth.morgan@duke.edu"
-  address = "Grainger Hall, Nicholas School of the Environment, Duke University"
+  email = "seth.morgan@tnc.org"
+  address = "The Nature Conservancy, 335 Blackwell St. Suite 300, Durham, NC 27701"
 
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
@@ -258,10 +258,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:seth.morgan@duke.edu"  # For a direct email link, use "mailto:test@example.org".
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/sethhenrymorgan"
+  #[[params.social]]
+   # icon = "twitter"
+    #icon_pack = "fab"
+    #link = "https://twitter.com/sethhenrymorgan"
 
   [[params.social]]
     icon = "google-scholar"
@@ -303,10 +303,10 @@ enableGitInfo = false
   url = "#publications"
   weight = 2
   
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 3
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 3
 
 [[menu.main]]
   name = "Posts"
@@ -320,10 +320,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[menu.main]]
-    name = "CV"
-    url = "files/cv.pdf"
-    weight = 7
+#[[menu.main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 7
 
 # Search.
 [params.search]
