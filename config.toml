@@ -62,6 +62,9 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "seth_headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
+  #favicon
+  favicon = "/img/favicon.ico"
+
   # Details for the Contact Widget
   email = "seth.morgan@tnc.org"
   address = "The Nature Conservancy, 335 Blackwell St. Suite 300, Durham, NC 27701"
